@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ListViewComponent.qml</file>
+        <file>Player.qml</file>
+        <file>MenuIcon.qml</file>
+        <file>MenuPanel.qml</file>
+        <file>Database.qml</file>
+        <file>Themes.js</file>
+    </qresource>
+    <qresource prefix="/f">
+        <file>fonts/OpenSans-Light.ttf</file>
+        <file>fonts/icomoon.ttf</file>
+        <file>images/BenBois-Vinyl-records.png</file>
+    </qresource>
+</RCC>
