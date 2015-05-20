@@ -7,4 +7,4 @@
 - [ ] In the future also support other desktop and mobile systems.
 
 # Building
-:rocket: Qt 5.4.1
+:rocket: Qt 5.5.0
